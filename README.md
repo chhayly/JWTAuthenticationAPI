@@ -1,2 +1,2 @@
-# JWTAuthenticationAPI
-.Net Core 
+# JWTAuthenticationAPI Template
+.Net Core 3.1 
